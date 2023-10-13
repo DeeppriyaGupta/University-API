@@ -1,2 +1,0 @@
-views ke def ke code
-student model def code
